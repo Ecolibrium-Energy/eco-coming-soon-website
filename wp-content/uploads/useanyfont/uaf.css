@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'calibri';
+					src: url('./1794calibri.woff2') format('woff2'),
+						url('./1794calibri.woff') format('woff');
+					font-display: auto;
+				}
+
+				.calibri{font-family: 'calibri' !important;}
+
+		
